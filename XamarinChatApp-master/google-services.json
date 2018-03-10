@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708327578091",
+    "firebase_url": "https://xamarin-45e6f.firebaseio.com",
+    "project_id": "xamarin-45e6f",
+    "storage_bucket": "xamarin-45e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708327578091:android:d819e07691bf61b7",
+        "android_client_info": {
+          "package_name": "XamarinChatApp.XamarinChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708327578091-44qli1k97haa93893go33v2915hdfm9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XamarinChatApp.XamarinChatApp",
+            "certificate_hash": "ecec97d34eac35814e3410adc76e76e14b767c09"
+          }
+        },
+        {
+          "client_id": "708327578091-87b26irjo09ru5m3dd9f6e410vqtdvbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-H9kSUlZXZp_2TvG_P2s6Ls3ehrv8O7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708327578091-87b26irjo09ru5m3dd9f6e410vqtdvbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

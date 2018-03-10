@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Common\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Module\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Common\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Database.Connection\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Database\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\9.6.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Tasks\9.6.1\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Common\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Auth.Module\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Common\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Database.Connection\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.Firebase.Database\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Xiaomi\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Tasks\9.6.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

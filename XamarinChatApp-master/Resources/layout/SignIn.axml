@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/edtEmail"
+            android:inputType="textEmailAddress"
+            android:hint="Введите ваш Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40.5dp" />
+        <EditText
+            android:id="@+id/edtPassword"
+            android:inputType="textPassword"
+            android:hint="Введите пароль"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="81.5dp" />
+        <Button
+            android:id="@+id/btnRegister"
+            android:text="SignIn"
+            android:layout_width="match_parent"
+            android:layout_height="49.0dp"
+            android:layout_marginTop="129.0dp"
+            android:layout_marginBottom="0.0dp" />
+    </RelativeLayout>
+</RelativeLayout>
